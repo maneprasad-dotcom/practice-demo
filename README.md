@@ -1,3 +1,3 @@
 # practice-demo
-this is my frist repository
+This is my frist repository
 Author-Prasad Mane
